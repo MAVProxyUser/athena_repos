@@ -13,6 +13,11 @@
 - 运动控制代码（目前以二进制方式发行）：[athena_locomotion_bin](https://partner-gitlab.mioffice.cn/cyberdog/athena_locomotion_bin)
 - ROS 2的应用：[athena_cyberdog](https://partner-gitlab.mioffice.cn/cyberdog/athena_cyberdog), [athena_assitant](https://partner-gitlab.mioffice.cn/cyberdog/athena_assistant), [athena_automation](https://partner-gitlab.mioffice.cn/cyberdog/athena_automation), [athena_vision](https://partner-gitlab.mioffice.cn/cyberdog/athena_vision)
 
+## 基本信息
+
+- 铁蛋默认用户是`mi`，密码为`123`
+- 使用USB线连接`Download`接口，可通过`ssh mi@192.168.55.1`连接铁蛋进行内部操作
+
 ## 提前准备
 
 建议提前准备如下：

@@ -13,6 +13,12 @@ This is the repos project of Xiaomi CyberDog. Athena is the project code. This p
 - Locomotion Code (Bin Currently): [athena_locomotion_bin](https://partner-gitlab.mioffice.cn/cyberdog/athena_locomotion_bin)
 - ROS 2 APPs: [athena_cyberdog](https://partner-gitlab.mioffice.cn/cyberdog/athena_cyberdog), [athena_assitant](https://partner-gitlab.mioffice.cn/cyberdog/athena_assistant), [athena_automation](https://partner-gitlab.mioffice.cn/cyberdog/athena_automation), [athena_vision](https://partner-gitlab.mioffice.cn/cyberdog/athena_vision)
 
+
+## Basic Information
+
+- The default user of CyberDog is `mi`, dafault password is `123`
+- You can use a USB cable to connect to the `Download` interface, and use `ssh mi@192.168.55.1` to connect to CyberDog for internal operations
+
 ## Before You Begin
 ---
 Before you begin we recommend you prepare:

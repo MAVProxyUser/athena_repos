@@ -17,7 +17,7 @@ Considering environmental protection and efficiency, currently only supported "e
 1. Download [Individual  Contributor License Agreement] (https://cdn.cnbj2m.fds.api.mi-img.com/cyberdog-package/packages/doc_materials/cla_zh_en.pdf)
 2. Use PDF to sign the agreement. Note that the signatures need to be handwritten (electronic signature).
 3. Send the signed agreement to the email[mi-cyberdog@xiaomi.com](mailto:mi-cyberdog@xiaomi.com)
-4. Click `Request Access` on the [CyberDog Group Page](https://partner-gitlab.mioffice.cn/cyberdog) to get permission, and you can join the development after waiting for approval.
+4. Click `Request Access` on the [CyberDog Customer Group Page](https://partner-gitlab.mioffice.cn/cyberdog/subgroup_customers) to get permission, and you can join the development after waiting for approval.
 
 ## Developer Signature Verification
 
