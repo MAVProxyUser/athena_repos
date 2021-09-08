@@ -1,0 +1,13 @@
+repositories:
+  custom/bond_core:
+    type: git
+    url: https://github.com/ros/bond_core.git
+    version: ros2
+  custom/diagnostics:
+    type: git
+    url: https://github.com/ros/diagnostics.git
+    version: ros2-devel
+  custom/imu_tools:
+    type: git
+    url: https://github.com/homalozoa/imu_tools.git
+    version: eloquent

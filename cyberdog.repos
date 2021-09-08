@@ -1,0 +1,37 @@
+repositories:
+    kernel:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_kernel.git
+        version: devel
+    ros2/src/athena_cyberdog:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_cyberdog.git
+        version: devel
+    ros2/src/athena_vision:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_vision.git
+        version: devel
+    ros2/src/athena_assistant:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_assistant.git
+        version: devel
+    ros2/src/athena_automation:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_automation.git
+        version: devel
+    ros2/src/athena_lcm_type:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_lcm_type.git
+        version: devel
+    locomotion_bin:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_locomotion_bin.git
+        version: devel
+    mcu_drivers/gd_bin:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_drivers_gd_bin.git
+        version: devel
+    mcu_drivers/st:
+        type: git
+        url: https://partner-gitlab.mioffice.cn/cyberdog/athena_drivers_st.git
+        version: devel
