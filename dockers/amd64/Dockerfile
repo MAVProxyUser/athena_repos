@@ -91,8 +91,8 @@ RUN mkdir -p /tmp && chmod 777 /tmp
 
 # add kernel cross compiler
 RUN mkdir -p /home/builder/build_tools
-RUN wget -q https://cdn.cnbj1.fds.api.mi-img.com/build-tool/gcc-linaro-7.3.1-2018.05-x86_64_aarch64-linux-gnu.tar.xz && \
-  tar -xJf gcc-linaro-7.3.1-2018.05-x86_64_aarch64-linux-gnu.tar.xz -C /home/builder/build_tools && \
-  rm gcc-linaro-7.3.1-2018.05-x86_64_aarch64-linux-gnu.tar.xz
+RUN wget -q https://cdn.cnbj2m.fds.api.mi-img.com/cyberdog-package/build/l4t_gcc_7.3.1.tgz && \
+  tar -xf l4t_gcc_7.3.1.tgz -C /home/builder/build_tools && \
+  rm l4t_gcc_7.3.1.tgz
 
 CMD ["bash"]
