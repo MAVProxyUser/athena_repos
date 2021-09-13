@@ -37,7 +37,7 @@ Installing and configuring as below.
 - ROS 2(Foxy Fitzroy): See [ROS 2 Installation](TBD) to learn ROS 2 deployment under different environment.
 - MR813 Environment: See [MR813 Environment](TBD) to learn how to deploy image for locomotion board.
 - Cross Compilers: Install cross compilers for arm64 and arm32 target devices. Packages' names are `gcc-aarch64-linux-gnu` and `gcc-arm-linux-gnueabihf` in Ubuntu/Debian Linux Distributions.
-- CyberDog EMMC_NVME_Image: Uncompress it into a fixed directory. Make sure you have permission to read. See [Flash your CyberDog](TBD) for more details.
+- CyberDog EMMC_NVME_Image: Uncompress it into a fixed directory. Make sure you have permission to read. See [Flash your CyberDog](docs/Flashing.md) for more details.
 - Cross compiling files: Files under dir [cross_config](TBD).
 
 ## Architecture
